@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina69&show_icons=true&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina69&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina69&show_icons=true&theme=gotham&border_color=0fffbf)]()
+[![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina69&layout=compact&theme=gotham&border_color=0fffbf)]()
 
 ### I'm the Cat 🐱
 ### Meow ~~~
