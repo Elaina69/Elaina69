@@ -1,9 +1,5 @@
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elaina69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elaina69&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina69&show_icons=true&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina69&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm the Cat 🐱
 ### Meow ~~~
