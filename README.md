@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina69&show_icons=true&theme=gotham&border_color=0fffbf)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina69&show_icons=true&theme=gotham&border_color=0fffbf&include_all_commits=true)]()
 [![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina69&layout=compact&theme=gotham&border_color=0fffbf)]()
 
 ### I'm the Cat 🐱
