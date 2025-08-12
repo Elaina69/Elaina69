@@ -20,7 +20,7 @@ Visitors (Since 2025/07/30)<br>
 
 - Discord: `elaina69`
 <br>
-<a href="https://discord.com/users/689073511142391835"><img src="https://lanyard.kyrie25.dev/api/689073511142391835?gradient=e4c2b3&theme=dark&imgStyle=circle&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&animatedDecoration=true&showDisplayName=true&hideDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=true" /></a>
+<a href="https://discord.com/users/689073511142391835"><img src="https://lanyard.kyrie25.dev/api/689073511142391835?gradient=e4c2b3&theme=dark&imgStyle=circle&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=true&animatedDecoration=true&showDisplayName=true&hideDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=true" /></a>
 <br>
 
 - 📧 Email: [Elaina](mailto:vipnoxhd123@gmail.com)
