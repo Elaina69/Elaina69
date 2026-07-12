@@ -29,10 +29,10 @@
   "hide"               : "jupyter%20notebook",
 }
 -->
-<a href="">
+<a href="https://github-stats-extended.vercel.app/api?username=Elaina69&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true">
   <img height=300 align="center" src="https://github-stats-extended.vercel.app/api?username=Elaina69&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
 </a>
-<a href="">
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Elaina69&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&langs_count=8&&layout=compact&hide=jupyter%20notebook">
   <img height=300 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Elaina69&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&langs_count=8&&layout=compact&hide=jupyter%20notebook" />
 </a>
 
